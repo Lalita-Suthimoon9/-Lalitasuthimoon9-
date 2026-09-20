@@ -1,4 +1,4 @@
-pip - The Python Package Installer
+Lalita-Suthimoon9 pip - The Python Package Installer
 ==================================
 
 .. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
