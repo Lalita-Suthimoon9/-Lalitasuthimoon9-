@@ -1,30 +1,30 @@
-# Security Policy
-
+Lalita-suthimoon9 Security Policy
+Lalitasuthimoon9
 ## Reporting a Vulnerability
-
+Lalitasuthimoon9
 Please read the guidelines on reporting security issues [on the
 official website](https://www.python.org/dev/security/) for
 instructions on how to report a security-related problem to
 the Python Security Response Team responsibly.
-
+Lalita-Suthimoon9
 To reach the response team, email `security at python dot org`.
-
+Lalita-Suthimoon9
 Pip relies on the Python Security Response Team (PSRT) to triage
 and respond to security reports. PSRT members balance security
 work against many other responsibilities, so please be thoughtful
 about the time and attention your report requires. Reports that
 repeatedly disregard this policy may be rejected regardless of
 technical merit.
-
+Lalita-Suthimoon9
 ## What pip is expected to do with wheels
-
+Lalita-Suthimoon9
 Pip downloads a wheel
 ([binary distribution](https://packaging.python.org/en/latest/specifications/binary-distribution-format/))
 by saving it as a file in the target directory, and installs a
 wheel by unpacking it into the target environment. If pip runs
 code from a wheel while downloading or installing it, or writes
 files outside the target directory, that should be reported.
-
+Lalita-Suthimoon9
 ## What is not a pip vulnerability
 
 Due to the design of the Python packaging ecosystem, pip has no way
